@@ -1,0 +1,20 @@
+# Excel temporary and lock files (created while a workbook is open)
+~$*
+*.tmp
+
+# Excel backup / autorecovery files
+*.xlk
+*.xlsb.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Word temporary files (if you keep the report in the repo)
+~$*.docx
+
+# Editor folders
+.vscode/
+.idea/
